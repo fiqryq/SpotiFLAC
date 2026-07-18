@@ -29,7 +29,6 @@ pnpm-debug.log*
 *.tsbuildinfo
 
 # IDE / Editors
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -41,8 +40,6 @@ Thumbs.db
 desktop.ini
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # Logs
@@ -62,3 +59,4 @@ test
 # Build notes (optional - uncomment if you don't want to commit)
 # BUILD_NOTES.md
 push.bat
+config.bat
